@@ -1,0 +1,28 @@
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/appsettings.Development.json
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/appsettings.json
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/See Sharp.deps.json
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/See Sharp.runtimeconfig.json
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/See Sharp.runtimeconfig.dev.json
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/See Sharp.dll
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/ref/See Sharp.dll
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/See Sharp.pdb
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ebenstine/See Sharp/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.csproj.AssemblyReference.cache
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.AssemblyInfoInputs.cache
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.AssemblyInfo.cs
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.csproj.CoreCompileInputs.cache
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.MvcApplicationPartsAssemblyInfo.cs
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.MvcApplicationPartsAssemblyInfo.cache
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/staticwebassets/See Sharp.StaticWebAssets.Manifest.cache
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/staticwebassets/See Sharp.StaticWebAssets.xml
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/scopedcss/bundle/See Sharp.styles.css
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.RazorTargetAssemblyInfo.cache
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.csproj.CopyComplete
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.dll
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/ref/See Sharp.dll
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.pdb
+/Users/ebenstine/See Sharp/obj/Debug/net5.0/See Sharp.genruntimeconfig.cache
